@@ -1,6 +1,6 @@
 {
   "homepage": "http://liviavianna.github.io/DigitalBusinessCard",
-  "name": "my-app",
+  "name": "DigitalBusinessCard",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
